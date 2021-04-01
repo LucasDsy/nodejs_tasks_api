@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "name": "Task 2",
+      "title": "Some stuff",
+      "dateBegin": "05/04/2021",
+      "dateEnd": "12/04/2021",
+      "username": "Cal",
+      "status": "pending",
+      "id": "384c803b1444e407"
+    },
+    {
+      "name": "Task 3",
+      "title": "I love homeworks",
+      "dateBegin": "28/03/2021",
+      "dateEnd": "29/03/2021",
+      "username": "Cal",
+      "status": "pending",
+      "id": "84c803b1444e407a"
+    },
+    {
+      "name": "Task 3",
+      "title": "I love homeworks",
+      "dateBegin": "17/05/2021",
+      "dateEnd": "21/05/2021",
+      "username": "Cal",
+      "status": "pending",
+      "id": "4c803b1444e407a9"
+    },
+    {
+      "name": "Task 3",
+      "title": "Un TP",
+      "dateBegin": "01/04/2021",
+      "dateEnd": "30/04/2021",
+      "username": "Bob",
+      "status": "processing",
+      "id": "c803b1444e407a9e"
+    }
+  ],
+  "users": [
+    {
+      "username": "Cal",
+      "password": "$2b$10$2uug19WMYHOGKVO.WCyUyOWSaqJrtnFGXy.wcNi/Ke2/sNh5fDftq",
+      "id": "ddd2da7861faf99f"
+    },
+    {
+      "username": "Bob",
+      "password": "$2b$10$/2FA2iuvgSfU1MtvUUEUtuZGgW77GQoULXLShL897rw.JqYJ0kL1O",
+      "id": "fdbd49979936063b"
+    }
+  ]
+}
